@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Dasare 👋
 
-## Data Engineer
+## Data Engineer | PySpark | Databricks | AWS
 
 ### Skills
 - Python
@@ -25,18 +25,8 @@ Data Engineer at Orinova Innovation Technology Pvt Ltd
 - Data Pipeline Optimization
 
 ### Connect
-- LinkedIn: https://www.linkedin.com/in/abhishek-dasare-b61883401
-<!--
-**AbhishekDasare/AbhishekDasare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn:  [Abhishek Dasare](https://www.linkedin.com/in/abhishek-dasare-b61883401)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Engineer with experience building ETL pipelines, cloud-based data solutions, and scalable big data processing systems using PySpark, Databricks, AWS Glue, Redshift, and Delta Lake.
